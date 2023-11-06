@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Inteliji.iml" filepath="$PROJECT_DIR$/.idea/Inteliji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator-Expression/Operator-Expression.iml" filepath="$PROJECT_DIR$/Operator-Expression/Operator-Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/Variable-DataType/Variable-DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" filepath="$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date/date.iml" filepath="$PROJECT_DIR$/date/date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leap-year-calculator/leap-year-calculator.iml" filepath="$PROJECT_DIR$/leap-year-calculator/leap-year-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear-equation-resolver/linear-equation-resolver.iml" filepath="$PROJECT_DIR$/linear-equation-resolver/linear-equation-resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-time/system-time.iml" filepath="$PROJECT_DIR$/system-time/system-time.iml" />
+    </modules>
+  </component>
+</project>
