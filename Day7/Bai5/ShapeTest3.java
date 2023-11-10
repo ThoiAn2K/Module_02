@@ -5,5 +5,6 @@ public class ShapeTest3 {
 
         shape3 = new Shape3("red", false);
         System.out.println(shape3);
+
     }
 }
