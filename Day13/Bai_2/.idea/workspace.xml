@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="075f1f16-190b-412d-a96a-e4ada722ab1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_10/BracketCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_11/DataRearranger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_2/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_2/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_3/ReverseArrayUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_3/ReverseStringUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_5/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_5/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_6/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_6/QueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_7/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_7/StackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_8/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day11/Bai_9/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_1/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_3/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_4/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_4/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_5/AbstractTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_5/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_5/TestBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_5/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_5/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_6/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_6/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_8/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_8/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_9/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day12/Bai_9/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_1/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day8/Bai_1/apj-2023-calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day8/Bai_1/apj-2023-calculator" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2Y7nVFdLm65fR0SDvtDgySwIMWg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="075f1f16-190b-412d-a96a-e4ada722ab1b" name="Changes" comment="" />
+      <created>1699885510251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699885510251</updated>
+      <workItem from="1699885512807" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
