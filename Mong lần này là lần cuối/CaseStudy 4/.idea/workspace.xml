@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b71bf281-c9a7-4366-9ed0-e1b5830df2a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/.idea/Case Study 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/CaseStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/Administrator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/CustomerOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/OrderedProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/PetCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/ProductCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/Service/ServicesProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/Storage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/Model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 2/CaseStudy/src/View/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 3/.idea/Case Study 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case Study 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/.idea/CaseStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/Case_Study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Controller/Display.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Controller/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Controller/LoginOfClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Controller/LoginOfSaler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Controller/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Controller/RegisterOfClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Controller/RegisterOfSaler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Data/DataClient.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Model/Implement/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Model/ObjectMIni/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Model/ObjectMIni/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Model/ObjectMIni/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Model/ObjectMIni/Saler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Model/ObjectMIni/TypeProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Model/ObjectMIni/Wallet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Services/ClearConsole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Services/ServicesCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Services/ServicesClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Services/ServicesProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Services/ServicesRegister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Services/ServicesSaler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Services/ServicesTypeProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Services/ServicesWallet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/Utils/InputWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/Case_Study/src/View/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Controller/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Controller/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Controller/LoginOfClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Controller/LoginOfSaler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Controller/Register.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Controller/RegisterOfClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Controller/RegisterOfSaler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Data/DataClient.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/Implement/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/ObjectMIni/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/ObjectMIni/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/ObjectMIni/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/ObjectMIni/Saler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/ObjectMIni/TypeProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/ObjectMIni/Wallet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/Services/ClearConsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/Services/ServicesCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/Services/ServicesClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/Services/ServicesProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/Services/ServicesRegister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/Services/ServicesSaler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/Services/ServicesTypeProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Model/Services/ServicesWallet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/Utils/InputWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy/out/production/Case_Study/View/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day8/Bai_1/apj-2023-calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day8/Bai_1/apj-2023-calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test2/shop_project2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test2/shop_project2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test3/shop_project2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test3/shop_project2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2YbbyqpEwLsovXW9E2stkJbSvYi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Desktop/LibaryInJava/opencsv-3.4.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/Desktop/codeGym/Module02/CaseStudy 4/Finally/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartUp.Main" />
+      <module name="Finally" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StartUp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadDataClients" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Utils.ReadDataClients" />
+      <module name="Finally" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadDataSellers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Utils.ReadDataSellers" />
+      <module name="Finally" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ReadDataSellers" />
+        <item itemvalue="Application.ReadDataClients" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b71bf281-c9a7-4366-9ed0-e1b5830df2a5" name="Changes" comment="" />
+      <created>1700797484448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700797484448</updated>
+      <workItem from="1700797486187" duration="34006000" />
+      <workItem from="1700898958764" duration="1925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Finally/src/StartUp/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

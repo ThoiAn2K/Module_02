@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Sales";
+}
+
+<h1>@ViewData["Title"]</h1>
+<br/>
+<div class="form-group">
+    <div class="form-group">
+        <h5> Here you can add a new sale, choosing the Product sold and the Seller
+            who made the sale.
+        </h5>
+        <a asp-action="Create" class="btn btn-primary">Add New Sale</a>
+    </div>
+    <hr/>
+    <div class="form-group">
+        <h5>Here you can see the sales tha were made, wich product was sold, which seller sold
+        and wich <br/> department it belongs to.</h5>
+        <a asp-action="Search" class="btn btn-primary">Search Sales</a>
+    </div>
+</div>
