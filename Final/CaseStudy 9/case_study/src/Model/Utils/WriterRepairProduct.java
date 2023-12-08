@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
 
-public class WriterRepairProduct implements Model.Utils.Product {
+public class WriterRepairProduct implements Model.Implement.Product {
     private static WriterRepairProduct instance;
 
     public static WriterRepairProduct getInstance() {
@@ -68,7 +68,7 @@ public class WriterRepairProduct implements Model.Utils.Product {
 
     }
 
-    public void setProductPrice(int price, String name) {
+    public void setProductPrice(double price, String name) {
         try {
             CSVReader csvReader = new CSVReader(new FileReader(PATH));
             List<String[]> allData = csvReader.readAll();
@@ -76,6 +76,24 @@ public class WriterRepairProduct implements Model.Utils.Product {
                 Product product = new Product();
                 if (row.length > 0 && product.getShopName().equals(row[0]) && name.equals(row[1])) {
                     row[3] = String.valueOf(price);
+                }
+            }
+            CSVWriter csvWriter = new CSVWriter(new FileWriter(PATH));
+            csvWriter.writeAll(allData);
+            csvWriter.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.out.println("not find product");
+        }
+    }
+    public void setQuantity(int quantity, String name) {
+        try {
+            CSVReader csvReader = new CSVReader(new FileReader(PATH));
+            List<String[]> allData = csvReader.readAll();
+            for (String[] row : allData) {
+                Product product = new Product();
+                if (row.length > 0 && product.getShopName().equals(row[0]) && name.equals(row[1])) {
+                    row[4] = String.valueOf(quantity);
                 }
             }
             CSVWriter csvWriter = new CSVWriter(new FileWriter(PATH));

@@ -1,6 +1,6 @@
 package View.Home;
 
-public class AddProductView implements AddProduct {
+public class AddProductView implements Model.Implement.AddProductView {
     private static AddProductView instance;
 
     public static AddProductView getInstance() {
@@ -8,6 +8,11 @@ public class AddProductView implements AddProduct {
             instance = new AddProductView();
         }
         return instance;
+    }
+
+    @Override
+    public void quantity() {
+        quantityProduct();
     }
 
     @Override
@@ -25,16 +30,22 @@ public class AddProductView implements AddProduct {
         prices();
     }
 
-    public void nameOfProducts() {
+
+    private void quantityProduct() {
+        System.out.println("Enter quantity of product : (Quantities can only be entered as integers and cannot be entered as decimals or words)");
+    }
+
+    private void nameOfProducts() {
         System.out.println("Enter name of product");
     }
 
-    public void descriptions() {
-        System.out.println("Enter description of product");
+    private void descriptions() {
+        System.out.println("Enter a description of your product");
     }
 
-    public void prices() {
-        System.out.println("Enter price of product");
+    private void prices() {
+        System.out.println("Enter price of product : (The price must be entered as a number and cannot contain alphanumeric characters)");
     }
+
 
 }

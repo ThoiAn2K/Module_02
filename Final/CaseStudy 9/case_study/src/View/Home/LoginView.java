@@ -1,7 +1,6 @@
 package View.Home;
 
-import Controller.HomePage;
-import Controller.Login;
+import Model.Implement.Login;
 
 public class LoginView implements Login {
     private static LoginView instance;

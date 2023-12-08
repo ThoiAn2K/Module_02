@@ -1,7 +1,8 @@
 package Controller;
 
-import Controller.Client.LoginOrRegisterClientController;
+import Controller.Clients.Register.LoginOrRegisterClientController;
 import Controller.Seller.LoginOrRegisterSellerController;
+import Model.Implement.HomePage;
 
 import java.util.Scanner;
 
@@ -21,6 +22,7 @@ public class Home implements HomePage {
         loadHome();
     }
 
+
     private void loadHome() {
         Scanner scanner = new Scanner(System.in);
         boolean isValid = false;
@@ -29,10 +31,10 @@ public class Home implements HomePage {
 
             View.Home.HomePage homePage = new View.Home.HomePage();
             homePage.load();
-            System.out.println("Enter number");
+            System.out.println("Please enter the number corresponding to the content you need");
             Scanner scanner1 = new Scanner(System.in);
             String choice = scanner1.nextLine();
-//            System.out.println();
+
             switch (choice) {
                 case "1":
                     LoginOrRegisterSellerController loginOrRegisterSellerController = new LoginOrRegisterSellerController();
@@ -46,7 +48,7 @@ public class Home implements HomePage {
                     isValid = true;
                     break;
                 case "3":
-                    System.out.println("GoodBye, see you again");
+                    System.out.println("GoodBye, see you soon");
                     System.exit(0);
             }
 

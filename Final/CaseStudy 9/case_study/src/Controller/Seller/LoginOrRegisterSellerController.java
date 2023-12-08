@@ -2,7 +2,9 @@ package Controller.Seller;
 
 
 import Controller.Home;
-import Controller.HomePage;
+import Controller.Seller.Login.HomePageLoginOfSeller;
+import Controller.Seller.Register.HomePageRegisterOfSeller;
+import Model.Implement.HomePage;
 
 import View.Home.LoginOrRegisterOfSellerView;
 
@@ -28,7 +30,7 @@ public class LoginOrRegisterSellerController implements HomePage {
         boolean isValid = false;
         System.out.println();
 
-        while (!isValid) {
+
             LoginOrRegisterOfSellerView loginOrRegisterOfSellerView = new LoginOrRegisterOfSellerView();
             loginOrRegisterOfSellerView.load();
             String choice = scanner.nextLine();
@@ -36,18 +38,20 @@ public class LoginOrRegisterSellerController implements HomePage {
                 case "1":
                     HomePageLoginOfSeller homePageLoginOfSeller = HomePageLoginOfSeller.getInstance();
                     homePageLoginOfSeller.load();
-                    isValid = true;
                     break;
                 case "2":
                     HomePageRegisterOfSeller homePageRegisterOfSeller = HomePageRegisterOfSeller.getInstance();
                     homePageRegisterOfSeller.load();
-                    isValid = true;
                     break;
                 case "3":
                     Home home = Home.getInstance();
                     home.load();
                     break;
+
+                default:
+                    load();
+                    break;
             }
         }
     }
-}
+//}

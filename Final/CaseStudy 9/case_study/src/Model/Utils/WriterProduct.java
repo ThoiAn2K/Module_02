@@ -1,5 +1,6 @@
 package Model.Utils;
 
+import Model.Implement.Product;
 import com.opencsv.CSVWriter;
 
 import java.io.FileWriter;
